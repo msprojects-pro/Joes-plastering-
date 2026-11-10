@@ -1,0 +1,6 @@
+{
+  "name": "Joe's Pristine Plastering",
+  "description": "Professional plastering, skimming, rendering, and damp proofing services in Middlesbrough, UK. 5-star quality and honest, affordable prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
